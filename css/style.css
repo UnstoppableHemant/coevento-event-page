@@ -1,0 +1,56 @@
+
+
+.event{
+    background-image: url('https://agriexpo.coevento.in/microsites/m1/video/event-video.jpg');
+    color: #f1f1f1;
+}
+
+.event-content{
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    font-weight: 500;
+}
+
+.event-details{
+    background-color: black;
+    padding: 3rem;
+    border-radius: 10%;
+}
+
+#supporters-list{
+    padding: 45px 0 0 0;
+}
+
+.owl-stage{
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+.supporter{
+    padding: 0 10px;
+    max-width: 150px;
+    margin: 0 auto;
+}
+
+.input-flex{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    border: 1px solid #d3d3d3;
+    padding:0.5rem 1rem;
+    border-radius: 10px;
+}
+
+.input-flex input{
+    border: 0px;
+    outline: none;
+    width: 100%;
+}
+
+/* .supporters img{
+    display: inline-block !important;
+} */
+
+
